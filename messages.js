@@ -1,8 +1,6 @@
-<<<<<<< Updated upstream
-//mixed messages script
 
-let finalMessage = "Hello World"
-=======
+
+
 //super hero generator
 //creates a random super hero, tells there name, powers, where they are from, when they were born, favorite food, hero base, and cape color
 
@@ -48,6 +46,5 @@ let finalMessage = `The Hero "${heroName}", real name ${fullName},
 was born in ${stateBorn}, but they live and work in ${workCity}. 
 They were born on ${month} ${dayOfMonth}. 
 There cape color is ${capeColor} and there favorite food is ${favoriteFood}. `
->>>>>>> Stashed changes
+
 console.log(finalMessage)
-console.log(5*5)
